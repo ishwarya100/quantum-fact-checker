@@ -1,6 +1,6 @@
 # Quantum-Assisted Misinformation Detection System
 
-[![Open Live App](https://img.shields.io/badge/-Open%20App-pink?style=for-the-badge)](https://quantum-fact-checker.streamlit.app/)
+[![Open Live App](https://img.shields.io/badge/-Open%20App-orange?style=for-the-badge)](https://quantum-fact-checker.streamlit.app/)
 
 
 This project is an AI-powered misinformation detection tool built with Streamlit.
