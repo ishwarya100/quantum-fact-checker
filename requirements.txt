@@ -1,0 +1,14 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+networkx
+
+# Optional: Transformers for advanced NLP
+transformers
+torch
+
+# Optional: Quantum simulation
+qiskit
